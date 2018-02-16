@@ -3,6 +3,10 @@ The udp-client.c and udp-server.c files form an embedded software application wr
 
 This application is tested with IoT devices deployed in FIT IoT-LAB testbed (https://www.iot-lab.info/). Indeed, the udp-client.c program is a modification of one of the example programs provided in that platform. The udp-server.c is the exact example provided in the platform and is included here for the completeness of the project.
 
+<<<<<<< HEAD
 The unmodified example files can  be found in the following path on FIT IoT-LAB devices:
 
 ~/iot-lab/parts/contiki.examples/ipv6/rpl-udp
+=======
+The unmodified example files can  be found in the following path on FIT IoT-LAB devices: ~/iot-lab/parts/contiki.examples/ipv6/rpl-udp
+>>>>>>> 48b379bffe7682d5324639f2ee7bb1a2987f051e
